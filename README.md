@@ -1,0 +1,1 @@
+Please download file from "https://www.ultraedit.com/downloads/ultraedit-download-thank-you/?utm_source=CWH&utm_medium=LeadsAcquisition&utm_content=UEDownload&utm_campaign=UETrialDownload" and paste it on your code folder for a better experience.
