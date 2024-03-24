@@ -1,0 +1,141 @@
+body {
+    font-family: "Segoe UI";
+}
+
+.logo {}
+
+.logo img {
+    width: 172px;
+    margin-top: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Segoe UI";
+}
+
+.right ul {
+    display: flex;
+    gap: 34px;
+}
+
+.right ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.right ul li span {
+    padding: 0 5px;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin: 112px;
+}
+
+.first span {
+    font-size: 44px;
+}
+
+.mbtn {
+    padding: 13px;
+    border-radius: 5px;
+    border: none;
+    background-color: #00b6d1;
+    font-weight: bolder;
+    color: white;
+    font-size: 12px;
+    width: 247px;
+    height: 45px;
+
+}
+
+.dbtn {
+    margin-top: 57px;
+    width: 139px;
+    height: 40px;
+    justify-content: c enter;
+}
+
+
+.subtitle {
+    font-size: 25px;
+    width: 51vw;
+    text-align: center;
+}
+
+.first span img {
+    width: 92px;
+    margin: 0 12px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.flex div {
+    margin-right: 286px;
+    font-size: 26px;
+    align-items: center;
+}
+
+.flex span sub {
+    font-size: 14px;
+}
+
+.blue {
+    background-color: #00b6d1;
+}
+
+.green {
+    background-color: #5cb85c;
+}
+
+.grid {
+    justify-content: center;
+    margin-top: 77px;
+
+}
+
+.items {
+    padding: 24px;
+    background-color: #f9f9f9   ;
+    
+}
+
+.item-lang {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 332px 332px 332px;
+    grid-template-rows: 168px 168px 168px;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+.slogo{
+    width: 61px;
+   margin: 0 19px;
+   margin-top: -18px;
+
+   
+}
+.flex span{
+    font-size: 23px;
+}
+.dbtn a{
+    text-decoration: none;
+    color: white;
+}
